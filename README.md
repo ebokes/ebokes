@@ -15,5 +15,5 @@ I am a self-motivated IT professional skilled in building responsive, interactiv
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ebokes&show_icons=true&include_all_commits=true&hide_border=true" alt="Chibuokem's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebokes&langs_count=8&layout=compact&hide_border=true" alt="Chibuokem's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ebokes&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="Chibuokem's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebokes&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="Chibuokem's GitHub stats" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
