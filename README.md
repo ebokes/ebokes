@@ -8,10 +8,10 @@ I am a self-motivated IT professional skilled in building responsive, interactiv
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m proficient in HTML, CSS, JavaScript, Reactjs, Redux, Context-Api, Figma, Bitbucket, Tailwind CSS, styled-components, SASS, Material-UI
-- 😊 I’m looking for help with open source projects, entry-level or mid-level opportunities.
-- 💼 Job interests: Frontend Engineer, Software Engineer (Junior or mid-level).
-- 📫 You can [view my resume](https://www.canva.com/design/DAFJaLTS6ng/9cx8KKyiKGbWSs5erfeMCA/view?utm_content=DAFJaLTS6ng&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) and contact me by emailing chibuokemegbuchulam@gmail.com
+- 🌱 I’m proficient in HTML5, CSS3, JavaScript, TypeScript, Reactjs, Vuejs, Redux, Context-Api, Figma, Github, Bitbucket, Tailwind CSS, styled-components, SASS, Material-UI, Chakra-UI
+- 😊 I’m looking for help with open source projects, entry-level opportunities.
+- 💼 Job interests: Frontend Engineer, Software Engineer (Junior level).
+- 📫 You can [view my resume](https://www.canva.com/design/DAFfQ4BOMcU/pkRpv35UdbxDabvMOXxchQ/view?utm_content=DAFfQ4BOMcU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) and contact me by emailing chibuokemegbuchulam@gmail.com
 
 ---
 
